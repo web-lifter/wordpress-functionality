@@ -8,9 +8,12 @@
     // Get the current page URL
     $current_url = home_url(add_query_arg(null, null));
 
+    // Ensure home_url does not add a trailing slash
+    $root_url = rtrim(home_url(), '/');
+
     // Define the hreflang tags
     $hreflangs = [
-        'x-default' => home_url('/'), // x-default points to your homepage
+        'x-default' => $root_url, // x-default points to your homepage
         'en-au' => $current_url, // English (Australia)
         'en' => $current_url // Generic English
     ];
