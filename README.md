@@ -4,7 +4,7 @@ Welcome to the **WordPress Functionality** repository! This repository contains 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The repository is organized as follows:
 
@@ -15,7 +15,7 @@ The repository is organized as follows:
 
 ---
 
-## 📄 Current Files
+## Current Files
 
 ### 1. `dynamic-hreflang-attributes.php`
 This script helps dynamically set hreflang attributes for multilingual WordPress websites. It ensures correct search engine indexing and improves SEO for sites targeting multiple languages or regions.
@@ -27,7 +27,7 @@ This script helps dynamically set hreflang attributes for multilingual WordPress
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To use the snippets and scripts:
 
@@ -42,7 +42,7 @@ To use the snippets and scripts:
 
 ---
 
-## 📋 Contributions
+## Contributions
 
 We welcome contributions! Please follow these steps to contribute:
 
@@ -54,26 +54,26 @@ We welcome contributions! Please follow these steps to contribute:
 
 ---
 
-## 💡 Suggestions and Issues
+## Suggestions and Issues
 
 If you have ideas for new functionality or encounter any issues with the existing code, please open an issue in this repository. Your feedback helps us improve and expand this resource.
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - WordPress version: 5.0 or higher.
 - PHP version: 7.4 or higher.
 
 ---
 
-## 📜 License
+## License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code in accordance with the license terms.
 
 ---
 
-## 📝 Author
+## Author
 
 This repository is maintained by **[Web Lifter]**. If you have any questions or need support, feel free to reach out!
 
