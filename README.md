@@ -15,15 +15,27 @@ The repository is organized as follows:
 
 ---
 
-## Current Files
+## Current Folders
 
-### 1. `dynamic-hreflang-attributes.php`
+### Hreflang
+
+#### 1. `dynamic-hreflang-attributes-single-lang.php`
 This script helps dynamically set hreflang attributes for multilingual WordPress websites. It ensures correct search engine indexing and improves SEO for sites targeting multiple languages or regions.
 
 **Key Features:**
 - Automatically generates hreflang tags based on site configuration.
 - Ensures proper linking between translated pages.
 - Enhances SEO performance for multilingual websites.
+
+#### 2. `dynamic-hreflang-attributes-multi-lang.php`
+This script dynamically generates hreflang attributes for multilingual WordPress websites where different languages are hosted under specific URL structures (e.g., /en, /fr, /de). It ensures reciprocal hreflang links between all translated versions of a page, complying with Google’s guidelines for multi-language SEO.
+
+**Key Features:**
+- Automatically generates hreflang tags for each supported language.
+- Supports the root domain (https://example.com) for the default language (e.g., en).
+- Handles languages with distinct URL structures, such as /fr for French or /de for German.
+- Ensures hreflang annotations include links to all alternate page versions, solving common "missing return link" errors.
+- Includes x-default hreflang for global fallback when no language preference is detected.
 
 ---
 
