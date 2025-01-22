@@ -7,7 +7,8 @@ Welcome to the **WordPress Functionality** repository! This repository contains 
 ## Repository Structure
 
 The repository is organised as follows:
-- ### **[hreflang](https://github.com/web-lifter/wordpress-functionality/tree/main/hreflang)**  
+
+### **[hreflang](https://github.com/web-lifter/wordpress-functionality/tree/main/hreflang)**  
 1. `dynamic-hreflang-attributes-single-lang.php`
 This script helps dynamically set hreflang attributes for multilingual WordPress websites. It ensures correct search engine indexing and improves SEO for sites targeting multiple languages or regions.
 
