@@ -87,7 +87,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use, 
 
 ## Author
 
-This repository is maintained by **[Web Lifter](weblifter.com.au)**. If you have any questions or need support, feel free to reach out!
+This repository is maintained by **Web Lifter**. If you have any questions or need support, feel free to reach out!
 
 ---
 
