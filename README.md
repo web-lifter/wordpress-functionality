@@ -15,8 +15,11 @@ This script helps dynamically set hreflang attributes for multilingual WordPress
 2. `dynamic-hreflang-attributes-multi-lang.php`
 This script dynamically generates hreflang attributes for multilingual WordPress websites where different languages are hosted under specific URL structures (e.g., /en, /fr, /de). It ensures reciprocal hreflang links between all translated versions of a page, complying with Google’s guidelines for multi-language SEO.
 
-For more detailed information about each file, including usage instructions and examples, visit the [Project Wiki](https://github.com/web-lifter/wordpress-functionality/wiki).
+### **[scripts](https://github.com/web-lifter/wordpress-functionality/tree/main/scripts)**  
+1. `preload.js`
+This script enables dynamic prefetching of resources in a WordPress environment, enhancing website performance by preloading specified URLs. By integrating this script, WordPress users can improve their site's loading speed and user experience, particularly for frequently visited pages.
 
+For more detailed information about each file, including usage instructions and examples, visit the [Project Wiki](https://github.com/web-lifter/wordpress-functionality/wiki).
 
 ---
 
