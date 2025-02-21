@@ -1,0 +1,16 @@
+/*
+Theme Name: Example Wordpress Theme Setup
+Theme URI: https://weblifter.com.au
+Author: Web Lifter
+Author URI: https://weblifter.com.au
+Description: A custom WordPress theme setup example.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: thelazypot
+*/
+
+body {
+    line-height: 1.6;
+    margin: 0;
+}
